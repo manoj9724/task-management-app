@@ -250,10 +250,4 @@ Defect life cycle used by the team: New → Assigned → Fixed → Retested → 
 3. Dinesh runs a quick regression on create, edit, delete, status change, filter and calendar after each batch of fixes.
 4. Dharshan copies the final counts into the test summary report.
 
-## 8. Sign-off
 
-| Name | Role | Date | Sign-off |
-|------|------|------|----------|
-| Manoj | Developer | 12-10-2026 | |
-| Dinesh | Tester | 12-10-2026 | |
-| Dharshan | Documentation | 12-10-2026 | |
