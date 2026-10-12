@@ -306,7 +306,7 @@ A web-based application that lets users plan, organise, track and complete their
 
 | Name | Role | Date | Sign-off |
 |------|------|------|----------|
-|iniyan| Requirement Analyst |  |  |
-|dillibabu| Project Manager |  |  |
-|manoj | Developer Lead |  |  |
-|dhinesh| Tester |  |  |
+|iniyan| Requirement Analyst |12-10-2026|  |
+|dillibabu| Project Manager |12-10-2026|  |
+|manoj | Developer Lead |12-10-2026|  |
+|dhinesh| Tester |12-10-2026|  |
