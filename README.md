@@ -25,8 +25,6 @@ The application focuses on basic task creation, task organization, status tracki
 - Project Management: GitHub Projects and Jira
 - Testing: Manual testing and test cases
 
-*Note: Update this section to match the technologies actually used in your prototype.*
-
 ## 6. Team Members
 
 | Member | Role |
@@ -56,8 +54,6 @@ The Agile model is selected because it supports incremental development, continu
 2. Open the project folder in Visual Studio Code.
 3. Open `src/index.html` in a web browser.
 4. Test the available features.
-
-*Adjust these instructions if your application uses a different setup.*
 
 ## 10. Project Management
 GitHub is used for source code management, repository collaboration, and task tracking. Jira is used to assign issues, manage priorities, and monitor project progress.
